@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-23T09:11:21.115Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="HnckqFe6yrwyNd6DkfYG" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-23T09:22:12.045Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="sKP-wziTiubYL17SuqnU" version="13.7.3" type="github">
   <diagram id="AYl-Ph6nO-dJOoklTDrt" name="第 1 页">
     <mxGraphModel dx="1308" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,6 +98,9 @@
         </mxCell>
         <mxCell id="dhHG6_kyB3eOGtUlghAT-66" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.gmdl.sliderDiscrete;barPos=55.68;dx=0.44;fillColor=#33b5e5;" vertex="1" parent="1">
           <mxGeometry x="470" y="660" width="185" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="dhHG6_kyB3eOGtUlghAT-67" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.gmdl.sliderDiscrete;dx=0.44;fillColor=#33b5e5;barPos=42.7;" vertex="1" parent="1">
+          <mxGeometry x="535" y="720" width="185" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
