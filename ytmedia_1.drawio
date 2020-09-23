@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-23T08:37:11.495Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="P5pU7QShIIkH8kRhTUPm" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-23T09:02:49.029Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ICe15t_rnNPploZq18AX" version="13.7.3" type="github">
   <diagram id="7KyOj3fAV2kCOO-Bveho" name="第 1 页">
     <mxGraphModel dx="2696" dy="2299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -508,8 +508,14 @@
         <mxCell id="mXDbekLg4qPnqd0OjegT-57" value="" style="shape=ellipse;fillColor=#A5ADBA;strokeColor=none;shadow=0" vertex="1" parent="1">
           <mxGeometry x="447" y="1340" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="mXDbekLg4qPnqd0OjegT-58" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.progressScrubberFocused;dx=0.3;fillColor=#33b5e5;" vertex="1" parent="1">
+        <mxCell id="mXDbekLg4qPnqd0OjegT-58" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.progressScrubberFocused;dx=0.62;fillColor=#33b5e5;" vertex="1" parent="1">
           <mxGeometry x="36" y="1460" width="185" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="mXDbekLg4qPnqd0OjegT-59" value="bar" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#E9ECEF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="42" y="1530" width="800" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mXDbekLg4qPnqd0OjegT-60" value="25%" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=5;fillColor=#0085FC;strokeColor=none;fontColor=#ffffff;resizeHeight=1;" vertex="1" parent="mXDbekLg4qPnqd0OjegT-59">
+          <mxGeometry width="600" height="20" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
