@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-24T05:50:19.926Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="gSQ1OBqKhezVFtomU4i2" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-24T05:50:34.590Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="OmGrJL1NPryh4V7mipQm" version="13.7.3" type="github">
   <diagram id="7KyOj3fAV2kCOO-Bveho" name="第 1 页">
-    <mxGraphModel dx="1090" dy="1828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2366" dy="2100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry y="380" width="340" height="830" as="geometry" />
         </mxCell>
         <mxCell id="mXDbekLg4qPnqd0OjegT-2" value="" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="495.75" width="78" height="53" as="geometry" />
+          <mxGeometry x="492.75" width="78" height="53" as="geometry" />
         </mxCell>
         <mxCell id="mXDbekLg4qPnqd0OjegT-3" value="" style="shape=mxgraph.cisco.security.firewall;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="73" y="10" width="29" height="67" as="geometry" />
@@ -429,9 +429,6 @@
         </mxCell>
         <mxCell id="yQttEKcs_ZQI97FA9JTA-85" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
           <mxGeometry x="108" y="320" width="114" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="yQttEKcs_ZQI97FA9JTA-88" value="" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="492.75000000000017" width="78" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
