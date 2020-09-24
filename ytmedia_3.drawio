@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-24T05:51:43.999Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="1U20ByCTFiwaxPrQa7Vt" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-24T05:53:44.506Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="qhCAIYetCXvO8Lbfs2cB" version="13.7.3" type="github">
   <diagram id="7KyOj3fAV2kCOO-Bveho" name="第 1 页">
     <mxGraphModel dx="2135" dy="1960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -427,8 +427,14 @@
         <mxCell id="yQttEKcs_ZQI97FA9JTA-84" value="172.17.80.154" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;shadow=1;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="932.9999999999995" y="507" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yQttEKcs_ZQI97FA9JTA-85" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" parent="1" vertex="1">
+        <mxCell id="yQttEKcs_ZQI97FA9JTA-85" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;" parent="1" vertex="1">
           <mxGeometry x="108" y="320" width="114" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="kRnvDEAMwZP9P6292mLg-1" value="" style="shape=mxgraph.cisco.misc.access_point;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="440" width="75" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="kRnvDEAMwZP9P6292mLg-2" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;" vertex="1" parent="1">
+          <mxGeometry x="-57" y="199" width="65" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
